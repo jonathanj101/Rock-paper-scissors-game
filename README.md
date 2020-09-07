@@ -4,7 +4,7 @@ Rock Paper or Scissors Game build in pure HTML, CSS and JavaScript
 
 #
 
-![Want to play?](/images/gameScreenShot.png)(https://jonathanj101.github.io/Rock-paper-scissors-game/main.html)
+![Want to play?](/images/gameScreenShot.png,https://jonathanj101.github.io/Rock-paper-scissors-game/main.html)(https://jonathanj101.github.io/Rock-paper-scissors-game/main.html)
 
 # Summary
 
