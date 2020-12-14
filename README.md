@@ -14,4 +14,4 @@ Been searching for projects to test my newly skills, so i found myself building 
 
 # Author
 
-**Jonathan Jimenez** - Full Stack Software Developer - [LinkedIn](https://www.linkedin.com/in/jonathan-jimenez101/) | [Codepen](https://codepen.io/jonathanj101/)
+**Jonathan Jimenez** - Full Stack Software Developer - [LinkedIn](https://www.linkedin.com/in/jonathan-jimenez101/) | [Website](https://jonathan-jimenez.herokuapp.com/)
